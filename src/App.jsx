@@ -75,7 +75,7 @@ const flavors = [
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://www.instagram.com/liftnleche/"
+                href="instagram://user?username=liftnleche"
                 target="_blank"
                 rel="noreferrer"
                 className="bg-[#C78E62] text-[#2B1C18] px-6 py-3 rounded-full font-semibold hover:scale-105 transition"
@@ -204,7 +204,7 @@ const flavors = [
                 </p>
 
                 <a
-                  href="https://www.instagram.com/liftnleche/"
+                  href="instagram://user?username=liftnleche"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-block bg-[#4A3128] text-white px-5 py-3 rounded-full"
@@ -279,7 +279,7 @@ Because great flavor should never be a compromise. We believe you shouldn't have
           </p>
 
           <a
-            href="https://www.instagram.com/liftnleche/"
+            href="instagram://user?username=liftnleche"
             target="_blank"
             rel="noreferrer"
             className="bg-[#2B1C18] text-white px-8 py-4 rounded-full text-lg font-semibold hover:scale-105 transition"
